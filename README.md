@@ -1,4 +1,3 @@
-<a href="https://opgc.me/#/users/JhsK" target="_blank"><img src="https://api.opgc.me/githubs/users/JhsK/tag/?theme=basic" /></a>
 <br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JhsK)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhsK&layout=compact&exclude_repo=pybo,temporary,React_nodebird,Android_project
